@@ -1,8 +1,13 @@
 package cuentas;
 
 public class CCuenta {
-//@author Vanesa
-//@version 23.1
+
+    /**
+     * @author Vanesa
+     */
+    /**
+     * @version 23.1
+     */
 
     private String nombre;
     private String cuenta;
